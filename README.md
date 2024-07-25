@@ -1,4 +1,3 @@
-P R O J E C T Has been shut down we are updating the exploit and you can finnaly execute in roblox
-- We Are Using Wearedevs.Api For This Exploit.
-- You Can Still Use The Executor But It Wont Work In Roblox Because There Are No Files To it
-- Cant Wait For It To Come Out ( Update 2.0 )
+P R O J E C T HAS BEEN BANNED AND NOW ROBLOX HAS DETECTED OUR BYFFRON AND BANNED US AND EVERYONE USING OUR EXECUTOR
+- WE ARE SO SORRY BUT FOR NOW USE SOLORA AND WAIT FOR US TO COME BACK
+- WE WONT COME BACK SO BYE BYE YALL IT WAS NICE MAKING PROJECT
