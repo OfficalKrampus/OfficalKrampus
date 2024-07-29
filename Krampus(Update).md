@@ -1,7 +1,5 @@
-- Krampus Has Been Bypassed By Some Hackers And Coders So We Are Updating Krampus And Krampus Is Not Avaliable Right Now
-- Unfortunately Krampus Didnt Have A Node.Json Login And Console Command Login So They Used A Bypasser Using Console And Node.Js
-- Krampus Wil Be Back In 2 Hours With New Updates And Logins Unfortunately
-- Krampus Premium Will Also Come Out And On Krampus Premium You Can Do More Things With Krampus (New Buttons , Scrips And Many More Features)
-- We Will Also Promote Free Krampus To People So Krampus Is Still Free For Now
-- Krampus Premium Can Be Purchased On A .exe File Or Our Website That Will Be Coming Out Soon (Not Made By Canva)
-- Anyways We Hope You Guys Enjoyed Krampus And The Update Will Come Out Very Very Soon So Please Be Patient And Wait For Krampus And Krampus Premium To Come Out (ENJOY THE NEW UPDATE COMING SOON)!
+- Krampus Update Has Benn Officaly Released And Is Avaliable To Use
+- We Created A Bypassing Bypasser For Command Promt So No One Can Bypass Krampus.
+- Krampus Is Also In Beta Right Now So Premium Version Will Be Added And Ready To Use.
+- Krampus Premium Will Also Have Alot Of Purchases On Scripts And .Exe Files For New Features
+- The Update Came Out Today So Enjoy Using Krampus On Roblo!
